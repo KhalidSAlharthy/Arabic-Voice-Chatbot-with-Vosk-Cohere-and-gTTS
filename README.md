@@ -51,6 +51,7 @@ This project is a terminal-based Arabic voice chatbot that listens to your spoke
     pip install sounddevice vosk arabic_reshaper python-bidi cohere gtts pygame.
    
 3. Download Vosk Arabic Model
+   
     Download the Arabic Vosk model from:
    
     Vosk Models
@@ -58,6 +59,7 @@ This project is a terminal-based Arabic voice chatbot that listens to your spoke
     Specifically, download vosk-model-ar-mgb2-0.4 and extract it inside your project folder, or update the script path accordingly.
 
 5. Get Your Cohere API Key
+   
     Sign up at Cohere
    
     Generate your API key from the dashboard
