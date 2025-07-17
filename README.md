@@ -73,9 +73,11 @@ https://github.com/user-attachments/assets/c157b97b-f219-43ac-aa90-d78de6ed144b
 
 
 ## Credits
-- Vosk for speech recognition  
-- Cohere for AI responses  
-- gTTS for text-to-speech
+
+- [Vosk](https://alphacephei.com/vosk) – For Arabic speech recognition  
+- [Cohere](https://cohere.ai) – For Arabic AI responses  
+- [gTTS](https://pypi.org/project/gTTS/) – For text-to-speech  
+
 
 
 
