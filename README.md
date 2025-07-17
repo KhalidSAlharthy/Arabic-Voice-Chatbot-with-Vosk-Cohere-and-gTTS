@@ -48,14 +48,16 @@ os — to handle temporary audio file cleanup.
     Install required packages using pip:
      pip install sounddevice vosk arabic_reshaper python-bidi cohere gtts pygame
    
-2. Vosk Arabic Model
-Specifically, download vosk-model-ar-mgb2-0.4 and put it inside your project folder, or update the script path accordingly.
+2. Download Vosk Arabic Model
+    Download the Arabic Vosk model from:
+    Vosk Models
+    Specifically, download vosk-model-ar-mgb2-0.4 and extract it inside your project folder, or update the script path accordingly.
 
 3. Get Your Cohere API Key
-Sign up at Cohere
-Generate your API key from the dashboard
-Replace the placeholder "APIKEY" in the script with your own key:
-co = cohere.Client("YOUR_API_KEY_HERE")
+    Sign up at Cohere
+    Generate your API key from the dashboard
+    Replace the placeholder "APIKEY" in the script with your own key:
+    co = cohere.Client("YOUR_API_KEY_HERE")
 
 # Demo Video
 
