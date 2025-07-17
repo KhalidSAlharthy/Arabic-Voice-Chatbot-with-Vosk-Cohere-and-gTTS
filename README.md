@@ -72,12 +72,10 @@ os — to handle temporary audio file cleanup.
 https://github.com/user-attachments/assets/c157b97b-f219-43ac-aa90-d78de6ed144b
 
 
-# Credits
+## Credits
+- Vosk for speech recognition  
+- Cohere for AI responses  
+- gTTS for text-to-speech
 
-Vosk Speech Recognition
-
-Cohere AI
-
-gTTS (Google Text-to-Speech)
 
 
