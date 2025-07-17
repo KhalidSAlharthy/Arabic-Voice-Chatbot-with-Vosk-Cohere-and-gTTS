@@ -65,13 +65,10 @@ https://github.com/user-attachments/assets/c157b97b-f219-43ac-aa90-d78de6ed144b
 
 # Credits
 
-@Vosk Speech Recognition
+Vosk Speech Recognition
 
-@Cohere AI
+Cohere AI
 
-@gTTS (Google Text-to-Speech)
+gTTS (Google Text-to-Speech)
 
-
-نسخ
-تحرير
 
