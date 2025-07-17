@@ -23,25 +23,25 @@ This project is a terminal-based Arabic voice chatbot that listens to your spoke
 
 # Python Libraries Used
 
-sounddevice — for capturing audio from the microphone.
+- sounddevice — for capturing audio from the microphone.
 
-vosk — offline speech recognition toolkit.
+- vosk — offline speech recognition toolkit.
 
-queue — thread-safe audio data handling.
+- queue — thread-safe audio data handling.
 
-json — parsing Vosk's recognition results.
+- json — parsing Vosk's recognition results.
 
-arabic_reshaper — fixes Arabic text shaping for proper display.
+- arabic_reshaper — fixes Arabic text shaping for proper display.
 
-python-bidi — bidirectional algorithm for correct Arabic text display in terminals.
+- python-bidi — bidirectional algorithm for correct Arabic text display in terminals.
 
-cohere — API client to interact with Cohere's language models.
+- cohere — API client to interact with Cohere's language models.
 
-gtts — Google Text-to-Speech for synthesizing Arabic speech.
+- gtts — Google Text-to-Speech for synthesizing Arabic speech.
 
-pygame — for playing back the synthesized speech audio.
+- pygame — for playing back the synthesized speech audio.
 
-os — to handle temporary audio file cleanup.
+- os — to handle temporary audio file cleanup.
 
 # Setup Instructions
 1. Install Python Dependencies
@@ -70,14 +70,6 @@ os — to handle temporary audio file cleanup.
 
 
 https://github.com/user-attachments/assets/c157b97b-f219-43ac-aa90-d78de6ed144b
-
-
-## Credits
-
-- [Vosk](https://alphacephei.com/vosk) – For Arabic speech recognition  
-- [Cohere](https://cohere.ai) – For Arabic AI responses  
-- [gTTS](https://pypi.org/project/gTTS/) – For text-to-speech  
-
 
 
 
