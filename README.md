@@ -54,7 +54,7 @@ This project is a terminal-based Arabic voice chatbot that listens to your spoke
    
     Download the Arabic Vosk model from:
    
-    Vosk Models
+    Vosk Models: https://alphacephei.com/vosk/models
    
     Specifically, download vosk-model-ar-mgb2-0.4 and extract it inside your project folder, or update the script path accordingly.
 
